@@ -13,7 +13,7 @@
  1. **Клонирование репозитория:**
 
     ```bash
-    git clone <ссылка-на-репозиторий>
+    git clone https://github.com/MiAVasechkin/FileStorageApp.git
     ```
 2. **Переход в директорию проекта:**
     ```bash
